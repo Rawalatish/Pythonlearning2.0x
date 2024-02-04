@@ -22,7 +22,7 @@ isSantaMarried = False
 
 # Complex data type
 # i - iota = sq -1 , j
-a= 1+7j
+a = 1 + 7j
 # python is used AI, ML, Math - they needs
 
 # Sequence
@@ -31,4 +31,3 @@ name2 = 'Pramod'  # String are accepted in both single and double quate
 Char = 'C'
 
 # Pyton is a object oriented language | what is class?
-

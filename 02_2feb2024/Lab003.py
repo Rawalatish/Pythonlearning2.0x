@@ -8,7 +8,7 @@ age = 'bless'
 print(age)
 age = "blessing"
 print(age)
-age ='C'
+age = 'C'
 print(age)
 
 Class = '123'
@@ -16,5 +16,3 @@ print(Class)
 
 _123 = 789
 print(_123)
-
-
